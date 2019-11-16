@@ -1,2 +1,2 @@
 # Programming-Chellenges
-I like working through different types of problems and finding the most efficient solutions. This repository contains different challenges I have worked on. 
+Working through different types of problems and finding the most efficient solutions is exciting. In this repository you will find some of the challenges I had worked on. 
